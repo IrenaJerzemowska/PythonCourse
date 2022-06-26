@@ -1,0 +1,22 @@
+quote = 'A good programmer is someone who always looks both ways before crossing a one - way street'
+quote.upper()
+
+print((quote.upper()))
+
+quote.lower()
+
+print((quote.lower()))
+
+print(quote.endswith('street'))
+
+print(quote.isupper())
+
+print(quote.find('one'))
+
+print(quote.replace('one','1'))
+#isdecimal sprawdza czy dziesietne
+print(quote.isdecimal())
+#isalpha sprawdza czy sa same litery
+print(quote.isalpha())
+#isalnum sprawdza czy litery i liczby
+print(quote.isalnum())
