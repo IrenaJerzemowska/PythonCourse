@@ -1,0 +1,20 @@
+drive = 'c:\ '
+folder = 'scripts\\python\\'
+
+file = 'myscript.py'
+
+path = drive + folder + file
+print(path)
+
+justText = "text with\nnewline"
+
+print(justText)
+
+justText = r"text with\nnewline"
+
+#r wyswietla row text
+
+print(justText)
+
+justText = 'Mc Donald \'s'
+print(justText)
