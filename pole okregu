@@ -1,0 +1,5 @@
+#to zadanie oblicza pole okregu
+WartoscPi = 3.14
+PromienOkregu = 5
+PoleKola = (WartoscPi * PromienOkregu**2)
+print(PoleKola)
