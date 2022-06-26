@@ -1,0 +1,8 @@
+firstName = "Kasia"
+familyName = "Sowa"
+lastName = "Mrugała"
+newName = firstName + familyName + lastName
+print(newName)
+
+newNamespacja = firstName+" "+familyName+" "+lastName
+print(newNamespacja)
